@@ -107,13 +107,16 @@ function getTweets() {
 
 function logger(option, args) {
     var inputs = "";
-    args.forEach(function (arg) {
-        inputs += arg + " ";
-    })
+    if (args.length > 0) {
+        args.forEach(function (arg) {
+            inputs += arg + " ";
+        });
+    }
     var command = option + " " + inputs;
-    console.log(command);
     fs.appendFile("log.txt", ", " + command, function (error) {
-        console.log(error);
+        if (error) {
+            console.log(error);
+        }
     });
 }
 

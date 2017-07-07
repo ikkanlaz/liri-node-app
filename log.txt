@@ -1,1 +1,2 @@
-do-what-it-says , spotify-this-song Wave Of Mutilation , spotify-this-song Feels , movie-this Happy Gilmore , movie-this , spotify-this-song , spotify-this-song i want candy 
+do-what-it-says , spotify-this-song Wave Of Mutilation , spotify-this-song Feels , movie-this Happy Gilmore , movie-this , spotify-this-song , spotify-this-song i want candy , my-tweets , my-tweets , my-tweets , my-tweets , my-tweets , spotify-my-song wouldnt it be nice
+node liri.js spotify-this-song wouldnt it be nice , my-tweets , spotify-this-song burn , spotify-this-song burn user , spotify-this-song burn usher , movie-this rush hour , movie-this , spotify-this-song 
